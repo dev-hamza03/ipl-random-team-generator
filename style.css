@@ -75,8 +75,11 @@ main {
 }
 
 @media (max-width: 600px) {
+  .card {
+    position: relative;
+  }
   .card button {
-    position: fixed;
+    position: absolute;
     top: 50%;
   }
 }/*# sourceMappingURL=style.css.map */

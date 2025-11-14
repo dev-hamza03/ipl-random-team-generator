@@ -82,9 +82,10 @@ main {
 
 @media (max-width: 600px) {
    .card {
+    position: relative;
     button {
-        position: fixed;
-        top: 50%;
+      position: absolute;
+      top: 50%;
     }
    }
 }

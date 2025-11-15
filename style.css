@@ -38,6 +38,7 @@ main {
   background-image: url(./assets/images/tata-IPL-img.png);
   background-position: center;
   background-size: cover;
+  background-color: white;
 }
 .card h2 {
   padding-top: 0.3rem;

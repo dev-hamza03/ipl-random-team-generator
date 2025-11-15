@@ -5,7 +5,7 @@ const iplTeams = [
         primary: "yellow",
         secondary: "#0A3D62",  // deep navy blue
         trophies: "⭐ Trophies: 5",
-        logo: "./assets/images/CSK-img.png"
+        logo: "assets/images/CSK-img.png"
     },
     {
         team: "MI",
@@ -13,7 +13,7 @@ const iplTeams = [
         primary: "blue",
         secondary: "#F1C40F",  // clean gold
         trophies: "⭐ Trophies: 5",
-        logo: "./assets/images/MI-img.png"
+        logo: "assets/images/MI-img.png"
     },
     {
         team: "KKR",
@@ -21,7 +21,7 @@ const iplTeams = [
         primary: "purple",
         secondary: "#F7D358",  // soft gold
         trophies: "⭐ Trophies: 3",
-        logo: "./assets/images/KKR-img.png"
+        logo: "assets/images/KKR-img.png"
     },
     {
         team: "SRH",
@@ -29,7 +29,7 @@ const iplTeams = [
         primary: "orange",
         secondary: "#2C3E50",  // deep blue-black
         trophies: "⭐ Trophies: 2",
-        logo: "./assets/images/SRH-img.png"
+        logo: "assets/images/SRH-img.png"
     },
     {
         team: "RR",
@@ -37,7 +37,7 @@ const iplTeams = [
         primary: "pink",
         secondary: "#1A237E",  // royal blue
         trophies: "⭐ Trophies: 1",
-        logo: "./assets/images/RR-img.png"
+        logo: "assets/images/RR-img.png"
     },
     {
         team: "RCB",
@@ -45,7 +45,7 @@ const iplTeams = [
         primary: "red",
         secondary: "#F7DC6F",  // soft premium gold
         trophies: "⭐ Trophies: 0",
-        logo: "./assets/images/RCB-img.png"
+        logo: "assets/images/RCB-img.png"
     },
     {
         team: "DC",
@@ -53,7 +53,7 @@ const iplTeams = [
         primary: "blue",
         secondary: "#C0392B",  // deep red
         trophies: "⭐ Trophies: 0",
-        logo: "./assets/images/DC-img.png"
+        logo: "assets/images/DC-img.png"
     },
     {
         team: "LSG",
@@ -61,7 +61,7 @@ const iplTeams = [
         primary: "skyblue",
         secondary: "#E67E22",  // soft orange
         trophies: "⭐ Trophies: 0",
-        logo: "./assets/images/LSG-img.png"
+        logo: "assets/images/LSG-img.png"
     },
     {
         team: "GT",
@@ -69,7 +69,7 @@ const iplTeams = [
         primary: "navy",
         secondary: "#F1C40F",  // clean gold
         trophies: "⭐ Trophies: 1",
-        logo: "./assets/images/GT-img.png"
+        logo: "assets/images/GT-img.png"
     },
     {
         team: "PBKS",
@@ -77,7 +77,7 @@ const iplTeams = [
         primary: "red",
         secondary: "#BDC3C7",  // silver grey
         trophies: "⭐ Trophies: 0",
-        logo: "./assets/images/PBKS-img.png"
+        logo: "assets/images/PBKS-img.png"
     }
 ];
 
